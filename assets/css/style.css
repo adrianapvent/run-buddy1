@@ -57,6 +57,7 @@ footer div {
 footer a {
     color: #024e76;
 }
+
 /* HERO STYLE START */
 section {
     padding: 60px;
@@ -127,6 +128,8 @@ section {
     font-size: 20px;
     margin: 0 auto;
 }
+/* <-- INTRO END --> */
+
 /* <-- What You Do h2 --> */
 .section-title {
     font-size: 55px;
@@ -162,6 +165,7 @@ section {
     font-size: 38px;
 }
 /* <-- What You Do End --> */
+
 /* <--Trainers Section Begins --> */
 .trainers {
     text-align: center;
@@ -201,12 +205,13 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+
 /* REACH OUT STYLES START */
 .contact {
     text-align: center;
     background: 024e76;
 }
-contact h2 {
+.contact h2 {
     color: #fce138;
 }
 .contact-info iframe {
