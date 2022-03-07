@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-<<<<<<< HEAD
-/*header*/
-=======
->>>>>>> main
 /* apply styles to <header> */
 body {
     /*more on this crazy alphanumerical value in a minute! */
@@ -69,7 +65,7 @@ section {
 
 /* HERO STYLE START */
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
